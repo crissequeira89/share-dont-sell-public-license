@@ -15,5 +15,3 @@ A license to kill commercialism.
 [Copy the license from here.](LICENSE.txt)
 
 This license was inspired by [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), [WTFPL](http://www.wtfpl.net/), and [DBADPL](http://dbad-license.org/).
-
-[“Fork me” button source.](https://codepo8.github.io/css-fork-on-github-ribbon/)
